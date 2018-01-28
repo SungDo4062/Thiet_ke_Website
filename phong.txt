@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Thành Ðông
-=======
-SÃ¹ng A dá»
->>>>>>> origin/master
+ThanhDong UniverSity
